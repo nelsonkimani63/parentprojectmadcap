@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+  MasterStylesheetOverride="True"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project."
+  IncludePattern="*.htm;*.html"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="true"
+  LastImport="2021-06-30T19:10:29.5039572+03:00">
+  <Files>
+    <Url
+      Source="file:///C:/Flare Challenge/Flare Challenge.flprj"
+      AbsoluteSource="file:///C:/Flare Challenge/Flare Challenge.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../Flare Challenge/Content/dogbreeds.htm"
+      AbsoluteSource="file:///C:/Flare Challenge/Content/dogbreeds.htm" />
+    <Url
+      Source="../Flare Challenge/Content/setters.htm"
+      AbsoluteSource="file:///C:/Flare Challenge/Content/setters.htm" />
+    <Url
+      Source="../Flare Challenge/Content/spaniels.htm"
+      AbsoluteSource="file:///C:/Flare Challenge/Content/spaniels.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../Flare Challenge/Content/Topic.htm"
+      AbsoluteSource="file:///C:/Flare Challenge/Content/Topic.htm" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="Content/dogbreeds.htm"
+      TimeStamp="6/30/2021 6:38:58 PM" />
+    <Url
+      Source="Content/setters.htm"
+      TimeStamp="6/30/2021 12:38:36 PM" />
+    <Url
+      Source="Content/spaniels.htm"
+      TimeStamp="6/30/2021 6:32:53 PM" />
+  </GeneratedFiles>
+</CatapultProject>
